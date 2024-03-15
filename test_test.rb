@@ -1,4 +1,5 @@
 require 'test/unit'
+require_relative 'test'
 
 class PrimeTest < Test::Unit::TestCase
   def test_is_prime
